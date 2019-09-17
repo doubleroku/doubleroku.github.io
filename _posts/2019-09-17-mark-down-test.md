@@ -9,5 +9,7 @@ catalog: true 						# 是否归档
 tags:								#标签
     - 生活
 ---
-
+# 前言
 $f(x) = \sum_{i=0}^{N}\int_{a}^{b} g(t,i) \text{ d}t$.
+# 预告
+一定要努力呀
